@@ -1,0 +1,53 @@
+.ah{
+    color: blueviolet;
+    background-color: red;
+}
+
+.tabl{
+    width: 80%;
+    margin: 20px auto;
+    font-family: algerian;
+    font-size: 26px;
+
+}
+
+
+.th{
+    padding-top: 20px;
+    padding-bottom: 20px;
+  
+}
+
+.data{
+    background-color: black;
+    color: chartreuse;
+}
+
+.data2{
+    background-color: black;
+    color: red;
+    font-size: 25px;
+    font-family: algerian;
+}
+
+.aside{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px 50px;
+}
+
+
+.beside{
+    color: transparent;
+    text-decoration: none;
+    font-family: algerian;
+    font-size: 35px;
+    font-weight: bolder;
+    background: conic-gradient(from 65deg, red,purple,pink,blue,skyblue,darkgray);
+    background-clip: text;
+    /* padding: 20px; */
+   
+   
+}
+
+
