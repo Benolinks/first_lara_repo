@@ -16,6 +16,7 @@ class ExampleController extends Controller
 
     public function create()  {
         return view("Examples.create");
+        // return redirect(route('Example.create'));
     }
     public function store( Request $request)  {
         // return view("Examples.store");
